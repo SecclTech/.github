@@ -7,7 +7,7 @@ We’re a custodian and investment technology provider. Our software and APIs em
           
 ## Stack
 
-our tech stack is TypeScript/JavaScript on Node, with AWS Lambdas used extensively, Mongo Atlas, and React on the front end.
+Our tech stack is TypeScript/JavaScript on Node, with AWS Lambdas used extensively, Mongo Atlas, and React on the front end.
 
 ## Hiring
 
