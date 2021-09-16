@@ -11,7 +11,7 @@ Our tech stack is Node.js with TypeScript/JavaScript, deployed on AWS, with Lamb
 
 ## Hiring
 
-We are [hiring](https://seccl.tech/careers/) for a plethora of roles in [Engineering](https://seccl.tech/careers/#career-roles), from Associate Software Engineers right through to Staff Software Engineers, we also have [QA](https://seccl.tech/careers/#career-roles) and [DevOps](https://seccl.tech/careers/#career-roles) tracks. We also hire for peolpe leadership too. You can read me on our website [here](https://seccl.tech/careers/). 
+We are [hiring](https://seccl.tech/careers/) for a plethora of roles in [Engineering](https://seccl.tech/careers/#career-roles), from Associate Software Engineers right through to Staff Software Engineers, we also have [QA](https://seccl.tech/careers/#career-roles) and [DevOps](https://seccl.tech/careers/#career-roles) tracks. We also hire for people leadership too. You can read me on our website [here](https://seccl.tech/careers/). 
 
 We truly value diversity in our workforce, and we’re actively working becoming a more diverse and inclusive organisation. We write quite a lot about [what it’s like to work here at Seccl](https://seccl.tech/blog/be-you-the-world-will-adjust/) – genuine flexibility, an inclusive and friendly team, a beautiful Bath office, great perks and benefits… we could go on.
 
