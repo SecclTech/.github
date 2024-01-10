@@ -25,25 +25,25 @@
 ### Checks to be considered:
 - [ ] Performed a *self-review* of the code
 - [ ] Additional *automated test* coverage
-  - [ ] Unit tests
-  - [ ] Integration tests
+  - Unit tests
+  - Integration tests
 - [ ] *3 green runs* in dev environment
 - [ ] *Planned deployment*
-  - [ ] Package version bumped
-  - [ ] Breaking changes being rolled out to all impacted areas
+  - Package version bumped
+  - Breaking changes being rolled out to all impacted areas
 - [ ] Considered *architecture*
-  - [ ] ADR approved where required
-  - [ ] [Seccl Architecture](https://app.mural.co/t/secclsipp0609/m/secclsipp0609/1684748358632/0f1a5c38302fe4e032279d9c502c7e47187ad0ff?sender=u2bda92941015f4707d213946) followed
+  - ADR approved where required
+  - [Seccl Architecture](https://app.mural.co/t/secclsipp0609/m/secclsipp0609/1684748358632/0f1a5c38302fe4e032279d9c502c7e47187ad0ff?sender=u2bda92941015f4707d213946) followed
 - [ ] Considered *security*
-  - [ ] OWASP [Design](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html)
-  - [ ] [Top 10](https://cheatsheetseries.owasp.org/IndexTopTen.html)
+  - OWASP [Design](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html)
+  - [Top 10](https://cheatsheetseries.owasp.org/IndexTopTen.html)
 - [ ] Considered *performance & scalability*
-  - [ ] Load testing
-  - [ ] Worst performance
+  - Load testing
+  - Worst performance
 - [ ] Considered *resilience*
-  - [ ] How will we spot if it goes wrong?
-  - [ ] How will we recover if it goes wrong?
-  - [ ] Described upgrades (or lack thereof) into `UPGRADING.md`
+  - How will we spot if it goes wrong?
+  - How will we recover if it goes wrong?
+  - Described upgrades (or lack thereof) into `UPGRADING.md`
 - [ ] *Repository maintenance*
-  - [ ] Any updates to `README.md`
-  - [ ] Captured changes into `CHANGELOG.md`
+  - Any updates to `README.md`
+  - Captured changes into `CHANGELOG.md`
