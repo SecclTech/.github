@@ -54,4 +54,5 @@ If any of these don't apply to your situation, please write N/A (not applicable)
 - [ ] *Repository maintenance*
   - Any updates to `README.md`
   - Captured changes into `CHANGELOG.md`
-- [ ] Confluence documentation written or updated where appropriate
+- [ ] Considered writing or updating Confluence documentation
+  - e.g. explaining the technical implemetation of a feature
