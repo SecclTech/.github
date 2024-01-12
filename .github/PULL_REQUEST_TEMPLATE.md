@@ -32,7 +32,7 @@ If any of these don't apply to your situation, please write N/A (not applicable)
   - [ ] Integration tests
   - [ ] System tests (if appropriate)
   - [ ] Manual testing (e.g. using Postman) has been completed
-- [ ] *3 green runs of [system-tests](https://github.com/SecclTech/system-tests)* in dev environment
+- [ ] *3 green runs of [system-tests](https://github.com/SecclTech/system-tests) or [system-tests-core](https://github.com/SecclTech/system-tests-core)* in dev environment
 - [ ] *Planned deployment*
   - See [Deployment and Publishing documentation](https://github.com/SecclTech/workflows/blob/main/docs/README.md#deployment-and-publishing) for guidance on the steps of the deployment process
   - Package version bumped
