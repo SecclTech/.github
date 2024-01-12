@@ -23,7 +23,7 @@
 - _BE GENEROUS to your reviewer and your future self!_
 
 ### Checks to be considered:
-If any of these don't apply to your situation, please write N/A (not applicable) next to them and tick them.
+If any of these don't apply to your situation, please write N/A (not applicable) next to them and that way the CI will skip them. Please also write some justification as to why it doesn't apply.
 - [ ] Descriptive pull request title
 - [ ] Completed all the questions above
 - [ ] Performed a *self-review* of the code
