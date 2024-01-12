@@ -23,16 +23,23 @@
 - _BE GENEROUS to your reviewer and your future self!_
 
 ### Checks to be considered:
+If any of these don't apply to your situation, please write N/A (not applicable) next to them and that way the CI will skip them. Please also write some justification as to why it doesn't apply.
+- [ ] Descriptive pull request title
+- [ ] Completed all the questions above
 - [ ] Performed a *self-review* of the code
 - [ ] Additional *automated test* coverage
-  - Unit tests
-  - Integration tests
-- [ ] *3 green runs* in dev environment
+  - [ ] Unit tests
+  - [ ] Integration tests
+  - [ ] System tests (if appropriate)
+  - [ ] Manual testing (e.g. using Postman) has been completed
+- [ ] *3 green runs of [system-tests](https://github.com/SecclTech/system-tests) or [system-tests-core](https://github.com/SecclTech/system-tests-core)* in dev environment
 - [ ] *Planned deployment*
+  - See [Deployment and Publishing documentation](https://github.com/SecclTech/workflows/blob/main/docs/README.md#deployment-and-publishing) for guidance on the steps of the deployment process
   - Package version bumped
-  - Breaking changes being rolled out to all impacted areas
+  - Breaking changes being rolled out to all impacted repos
+    - Link those PRs within this PR description if possible
 - [ ] Considered *architecture*
-  - ADR approved where required
+  - [ADR](https://seccltech.atlassian.net/wiki/spaces/EN/pages/3580788837/Architectural+Design+Records) raised and approved where required
   - [Seccl Architecture](https://app.mural.co/t/secclsipp0609/m/secclsipp0609/1684748358632/0f1a5c38302fe4e032279d9c502c7e47187ad0ff?sender=u2bda92941015f4707d213946) followed
 - [ ] Considered *security*
   - OWASP [Design](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html)
@@ -47,3 +54,5 @@
 - [ ] *Repository maintenance*
   - Any updates to `README.md`
   - Captured changes into `CHANGELOG.md`
+- [ ] Considered writing or updating Confluence documentation
+  - e.g. explaining the technical implemetation of a feature
