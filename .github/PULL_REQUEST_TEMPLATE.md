@@ -31,6 +31,7 @@
 - [ ] *Planned deployment*
   - Package version bumped
   - Breaking changes being rolled out to all impacted areas
+  - Followed [dependency strategy](https://seccltech.atlassian.net/wiki/spaces/EN/pages/4822990849/Dependency+Strategy)
 - [ ] Considered *architecture*
   - ADR approved where required
   - [Seccl Architecture](https://app.mural.co/t/secclsipp0609/m/secclsipp0609/1684748358632/0f1a5c38302fe4e032279d9c502c7e47187ad0ff?sender=u2bda92941015f4707d213946) followed
