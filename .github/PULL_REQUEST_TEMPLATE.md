@@ -31,6 +31,10 @@
 - [ ] *Planned deployment*
   - Package version bumped
   - Breaking changes being rolled out to all impacted areas
+- [ ] Considered *monitoring* and *observability*
+  - Appropriate logging added using `@seccl/logger`
+  - Using [structured logging](https://newrelic.com/blog/how-to-relic/structured-logging) instead of string interpolation
+  - External service calls are captured in a [span](https://github.com/SecclTech/logger?tab=readme-ov-file#telemetry-1) with adequate attributes
 - [ ] Considered *architecture*
   - ADR approved where required
   - [Seccl Architecture](https://app.mural.co/t/secclsipp0609/m/secclsipp0609/1684748358632/0f1a5c38302fe4e032279d9c502c7e47187ad0ff?sender=u2bda92941015f4707d213946) followed
