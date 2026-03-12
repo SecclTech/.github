@@ -12,6 +12,8 @@
 - _Include reliance on any automated tests._
 - _BE GENEROUS to your reviewer and your future self!_
 
+<!---terraform plan summary-->
+
 ### Links / Are there any related issues, pull requests or documents?
 - https://seccltech.atlassian.net/browse/SECCL-XXXXX
 - https://github.com/SecclTech/example-repo/pull/YYY
