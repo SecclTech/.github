@@ -27,7 +27,7 @@
 - [ ] Additional *automated test* coverage
   - Unit tests
   - Integration tests
-- [ ] *3 green runs* in dev environment
+- [ ] *Green run* in dev environment
 - [ ] *Planned deployment*
   - Package version bumped
   - Breaking changes being rolled out to all impacted areas
